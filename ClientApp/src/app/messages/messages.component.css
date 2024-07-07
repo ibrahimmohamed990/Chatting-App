@@ -1,0 +1,31 @@
+.message {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .message-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .message-sender {
+    font-weight: bold;
+    font-size: 0.99em;
+  }
+  
+  .message-content {
+    margin-left: 20px;
+  }
+  
+  .message-timestamp {
+    font-size: 0.85em;
+    color: #888;
+  }
+  .chat-container {
+    max-height: 400px;
+    overflow-y: auto;
+  }
+  
+  

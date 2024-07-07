@@ -1,0 +1,26 @@
+<!-- <div style="overflow-y: auto; height: 400px;">
+    <p class="card-text" *ngFor="let messages of messages">
+        <strong><span class="text-primary">{{messages.from}}: </span></strong>
+        <span class="ml-1">{{messages.content}}</span>
+        <span class="ml-3">
+            <em>{{ messages.timeStamp | date:'short' }}</em>
+        </span>
+    </p>
+</div> -->
+
+
+<div class="card-body" #scrollContainer class="chat-container">
+    <div class="message" *ngFor="let message of messages.sort()">
+      <div class="message-header">
+        <strong class="message-sender" 
+            [ngClass]="{'text-danger': message.from === chatService.myName, 'text-primary': message.from !== chatService.myName}">
+            {{message.from}}:
+        </strong>
+        <span class="message-timestamp"><em>{{ message.timeStamp | date:'short' }}</em></span>
+    </div>
+    <div class="message-content ml-1">
+        {{message.content}}
+    </div>
+    </div>
+  </div>
+  

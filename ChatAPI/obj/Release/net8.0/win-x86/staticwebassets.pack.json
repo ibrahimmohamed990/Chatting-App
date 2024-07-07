@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Projects\\ChatApp\\ChatAPI\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
+    },
+    {
+      "Id": "E:\\Projects\\ChatApp\\ChatAPI\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\Projects\\ChatApp\\ChatAPI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Projects\\ChatApp\\ChatAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "E:\\Projects\\ChatApp\\ChatAPI\\wwwroot\\main.273d7833c1a9029d.js",
+      "PackagePath": "staticwebassets\\main.273d7833c1a9029d.js"
+    },
+    {
+      "Id": "E:\\Projects\\ChatApp\\ChatAPI\\wwwroot\\polyfills.15998b4dbbe02575.js",
+      "PackagePath": "staticwebassets\\polyfills.15998b4dbbe02575.js"
+    },
+    {
+      "Id": "E:\\Projects\\ChatApp\\ChatAPI\\wwwroot\\runtime.00285116a9b7ab64.js",
+      "PackagePath": "staticwebassets\\runtime.00285116a9b7ab64.js"
+    },
+    {
+      "Id": "E:\\Projects\\ChatApp\\ChatAPI\\wwwroot\\styles.40fd053f6db9bd3b.css",
+      "PackagePath": "staticwebassets\\styles.40fd053f6db9bd3b.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.ChatAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.build.ChatAPI.props",
+      "PackagePath": "build\\ChatAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildMultiTargeting.ChatAPI.props",
+      "PackagePath": "buildMultiTargeting\\ChatAPI.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\win-x86\\staticwebassets\\msbuild.buildTransitive.ChatAPI.props",
+      "PackagePath": "buildTransitive\\ChatAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,11 @@
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ChatAPI.exe
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.Development.json
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\appsettings.json
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ChatAPI.dll
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ChatAPI.deps.json
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ChatAPI.runtimeconfig.json
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\ChatAPI.pdb
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Projects\ChatApp\ChatAPI\obj\Release\net8.0\win-x86\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
